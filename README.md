@@ -12,7 +12,7 @@
 ## Education
 
 * Post Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_April 2023_)
-* BSc Dual Major: Computer Science & Applied Mathematics || University of Western Ontario (_June 1999_)
+* BSc Dual Major: Computer Science & Applied Mathematics | | University of Western Ontario (_June 1999_)
 
 ## Work Experience
 #### Inventory & Business Process Specialist / Data Analyst @ Iconix WaterWorks LP (_2006-Present_)
