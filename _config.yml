@@ -1,5 +1,5 @@
 title: Karen Atkinson
 #logo: (relative path of photo, starts with / ... not enclosed by brackets)
-desctiption: Data Scientist
-show_downloads: True
+description: Data Scientist // shows under image
+show_downloads: False
 theme: jekyll-theme-minimal
