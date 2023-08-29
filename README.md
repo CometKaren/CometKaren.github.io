@@ -20,8 +20,10 @@
 - Avoided scheduling conflicts between multiple projects
 
 
-[//]: * streamlined process to rebalance inventory to reduce transfer costs  
+<!-- 
+* streamlined process to rebalance inventory to reduce transfer costs  
 * assessed business processes and identified ways to boost improvement
 * (Share examples)
 * identified patterns and trends in large data sets and provided actionable insights
 * (share examples)
+-->
