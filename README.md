@@ -7,6 +7,8 @@
 * Post Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_April 2023_)
 * BSc Dual Major: Computer Science & Applied Mathematics | University of Western Ontario (_June 1999_)
 
+## Projects
+
 ## Work Experience
 #### Data Analyst @ Iconix WaterWorks LP (_2006-Present_)
 - Create interative dashboards to visually present data-driven insights to operational staff, resulting in significant increase in their understanding of inventory issues, and leading to a 40% decrease in outstanding paperwork processes.
@@ -17,8 +19,8 @@
 - Configured customized banking software; working with both development and testing teams.
 - Avoided scheduling conflicts between multiple projects
 
-## Projects
-* streamlined process to rebalance inventory to reduce transfer costs
+
+[//] * streamlined process to rebalance inventory to reduce transfer costs  
 * assessed business processes and identified ways to boost improvement
 * (Share examples)
 * identified patterns and trends in large data sets and provided actionable insights
