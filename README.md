@@ -1,12 +1,13 @@
 # Data Scientist
 
-## Technical Skills:  
-   **Python, R, SQL, NOSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power Tools, Microsoft PowerBI**
+### Technical Skills:  
+Python, R, SQL, NOSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power Tools, Microsoft PowerBI
 
 ## Education
 
-* Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_April 2023_)
-* BSc Dual Major: Computer Science & Applied Mathematics |   | University of Western Ontario (_June 1999_)
+* Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)
+* Certificate: Accounting (with High Honours) | Sheridan College (_2008_)
+* BSc Dual Major: Computer Science & Applied Mathematics |   | University of Western Ontario (_1999_)
 
 ## Projects
 
