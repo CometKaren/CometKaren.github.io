@@ -1,6 +1,9 @@
 title: Karen Atkinson
 #logo: (relative path of photo, starts with / ... not enclosed by brackets)
 description: Data Scientist / Data Analyst
-url: "[Tableau Public Visuals](https://public.tableau.com/app/profile/karen.atkinson.2000)"
 show_downloads: False
 theme: jekyll-theme-minimal
+
+- name: Tableau Visuals
+  url: https://public.tableau.com/app/profile/karen.atkinson.2000
+  desc: Additional projects available
