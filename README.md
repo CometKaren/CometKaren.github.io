@@ -5,12 +5,9 @@ Python, R, SQL, NOSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
 
 ## Education
 
-* Ontario Graduate Certificate: | Lambton College  
-  Data Analytics for Business Decision Making |  (_2023_)  
-* Certificate with High Honours: | Sheridan College  
-  Accounting | (_2008_)  
-* BSc Dual Major: | University of Western Ontario  
-  Computer Science & Applied Mathematics | (_1999_)  
+* Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)  
+* Certificate with High Honours: Accounting | Sheridan College (_2008_)  
+* BSc Dual Major: Computer Science & Applied Mathematics | University of Western Ontario (_1999_)  
 
 ## Projects
 
