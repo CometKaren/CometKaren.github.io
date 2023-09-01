@@ -6,7 +6,7 @@
 ## Education
 
 * Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_April 2023_)
-* BSc Dual Major: Computer Science & Applied Mathematics | | University of Western Ontario (_June 1999_)
+* BSc Dual Major: Computer Science & Applied Mathematics |   | University of Western Ontario (_June 1999_)
 
 ## Projects
 
