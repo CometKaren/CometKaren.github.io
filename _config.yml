@@ -5,10 +5,10 @@ title: Karen Atkinson
 #logo: (relative path of photo, starts with / ... not enclosed by brackets)
 description: Data Scientist / Data Analyst
 
-steps:
-  - title: Tableu Visuals
-    description: "Click here to see some interesting visuals"
-    link: 'https://public.tableau.com/app/profile/karen.atkinson.2000'
+collections:
+  title: Tableu Visuals
+  description: "Click here to see some interesting visuals"
+  link: https://public.tableau.com/app/profile/karen.atkinson.2000
 #- name: Tableau Visuals
 #  url: https://public.tableau.com/app/profile/karen.atkinson.2000
 #  desc: Additional projects available
