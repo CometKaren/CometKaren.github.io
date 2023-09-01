@@ -4,6 +4,6 @@ description: Data Scientist / Data Analyst
 show_downloads: False
 theme: jekyll-theme-minimal
 
-- name: Tableau Visuals
-  url: https://public.tableau.com/app/profile/karen.atkinson.2000
-  desc: Additional projects available
+#- name: Tableau Visuals
+#  url: https://public.tableau.com/app/profile/karen.atkinson.2000
+#  desc: Additional projects available
