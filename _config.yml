@@ -5,9 +5,14 @@ title: Karen Atkinson
 #logo: /assets/img/<image name.png>
 description: Data Scientist / Data Analyst
 author:
+  name: "Karen Atkinson"
   email: "atkinson.karen.2000@gmail.com"
   url: "https://public.tableau.com/app/profile/karen.atkinson.2000"
 
+social:
+  links:
+    - https://pandasekh.github.io/Jekyll-YAMT/
+    
 #  title: Tableu Visuals
 #  description: "Click here to see some interesting visuals"
 #  link: https://public.tableau.com/app/profile/karen.atkinson.2000
