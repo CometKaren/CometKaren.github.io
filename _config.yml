@@ -4,8 +4,9 @@ show_downloads: False
 title: Karen Atkinson
 #logo: /assets/img/<image name.png>
 description: Data Scientist / Data Analyst
-
-external_url: https://public.tableau.com/app/profile/karen.atkinson.2000
+author:
+  email: "atkinson.karen.2000@gmail.com"
+  url: "https://public.tableau.com/app/profile/karen.atkinson.2000"
 
 #  title: Tableu Visuals
 #  description: "Click here to see some interesting visuals"
