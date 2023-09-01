@@ -2,13 +2,14 @@ theme: jekyll-theme-minimal
 show_downloads: False
 
 title: Karen Atkinson
-#logo: (relative path of photo, starts with / ... not enclosed by brackets)
+#logo: /assets/img/<image name.png>
 description: Data Scientist / Data Analyst
 
-collections:
-  title: Tableu Visuals
-  description: "Click here to see some interesting visuals"
-  link: https://public.tableau.com/app/profile/karen.atkinson.2000
+external_url: https://public.tableau.com/app/profile/karen.atkinson.2000
+
+#  title: Tableu Visuals
+#  description: "Click here to see some interesting visuals"
+#  link: https://public.tableau.com/app/profile/karen.atkinson.2000
 #- name: Tableau Visuals
 #  url: https://public.tableau.com/app/profile/karen.atkinson.2000
 #  desc: Additional projects available
