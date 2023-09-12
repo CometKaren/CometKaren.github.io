@@ -1,9 +1,5 @@
 # Data Scientist
 
-Inquisitive mind with rapid learning abilities  
-Adept at critical thinking and connecting diverse concepts generating innovative solutions  
-Stong collaborator and independant worker
-
 ### Technical Skills:  
 Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power Tools, Microsoft PowerBI
 
