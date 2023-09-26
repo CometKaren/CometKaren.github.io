@@ -4,3 +4,4 @@ show_downloads: False
 title: Karen Atkinson
 #logo: /assets/img/logo.png
 #description: <type in a short description> -- already entered in html file
+google_analytics:
