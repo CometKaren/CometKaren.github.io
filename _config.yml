@@ -3,23 +3,4 @@ show_downloads: False
 
 title: Karen Atkinson
 #logo: /assets/img/logo.png
-#description: |+
-#  Inquisitive mind with rapid learning abilities
-#  Adept at critical thinking and connecting diverse concepts generating innovative solutions
-#  Stong collaborator and independant worker
-# Intellectual Curiousity; rapid learner, critical thinker, and cross-disciplinary connector. A proven initiator, delivering high-standard projects. Collaborative and communicative, leveraging data-driven insights for team success. Eager to contribute innovative solutions at a senior level.
-author:
-  name: "Karen Atkinson"
-  email: "atkinson.karen.2000@gmail.com"
-  url: "https://public.tableau.com/app/profile/karen.atkinson.2000"
-
-social:
-  links:
-    - https://pandasekh.github.io/Jekyll-YAMT/
-    
-#  title: Tableu Visuals
-#  description: "Click here to see some interesting visuals"
-#  link: https://public.tableau.com/app/profile/karen.atkinson.2000
-#- name: Tableau Visuals
-#  url: https://public.tableau.com/app/profile/karen.atkinson.2000
-#  desc: Additional projects available
+#description: <type in a short description> -- already entered in html file
