@@ -23,7 +23,7 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
   - understanding the data needs of the new ERP system, the current ERP system, and what data requires modification as we move from one to the other
   - created documentation as we continue to standardize the format and expectation of data that is manually entered, such as creating material descriptions
   - Idenfied fields that should be entered during various business processes, that the current ERP system does not deem mandatory, but the new ERP system does
-- Tested and fine-tuned GenAI scripts designed for categorizing items, ensuring accuracy, reliability, and making critical adjustments for optimization.
+- Tested and fine-tuned GenAI **Python** scripts designed for categorizing new items, ensuring accuracy, reliability, and making critical adjustments for optimization.
 
 #### Configuration Builder @ Spectra (_2000-2004_)
 - Configured customized banking software; working with both development and testing teams.
