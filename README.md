@@ -19,7 +19,7 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
   - focusing on outstanding paperwork, branches were able to better understand why the paperwork was outstanding in the system (identify what was offside), and then make the appropriate corrections allowing inventory to be more accurate
   - focusing on the top items of the company, branches were able to better understand how their locations played a part in the overall company success; allowing for a more cohesive culture building opportunity
   - as most users were not familiar with dashboards, quick reference sheets were created for each to assist with how to read the information within, as well as filtering options and moving around within the dashboards. This proved to be extremely helpful.
-- Conducted comprehensive data quality assessments using **Trifacta** and **Excel Data Models** with a primary focus on standardizing and seamlessly integrating ERP systems.
+- Identified data dependencies and discrepancies; Conducted comprehensive data quality assessments using **Trifacta** and **Excel Data Models** with a primary focus on standardizing and seamlessly integrating ERP systems.
   - understanding the data needs of the new ERP system, the current ERP system, and what data requires modification as we move from one to the other
   - created documentation as we continue to standardize the format and expectation of data that is manually entered, such as creating material descriptions
   - Idenfied fields that should be entered during various business processes, that the current ERP system does not deem mandatory, but the new ERP system does
