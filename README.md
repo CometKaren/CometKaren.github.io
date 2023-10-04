@@ -14,7 +14,7 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
 -->
 ## Work Experience
 #### Data Analyst @ Iconix WaterWorks LP (_2006-Present_)
-- Created interative dashboards using **Power BI** to visually present data-driven insights to operational staff, resulting in significant increase in their understanding of inventory issues, and leading to a 40% decrease in outstanding paperwork processes.
+- Created interative dashboards using **Power BI** to visually present data-driven insights to operational staff, resulting in significant increase in their understanding of inventory issues, and leading to a **40% decrease** in outstanding paperwork processes.
   - focusing on low turning inventory, branches were able to identify the material and choose to either increase sales and have the items become higher turning inventory, or remove the inventory and no longer stock the material; allowing inventory to be more efficient
   - focusing on outstanding paperwork, branches were able to better understand why the paperwork was outstanding in the system (identify what was offside), and then make the appropriate corrections allowing inventory to be more accurate
   - focusing on the top items of the company, branches were able to better understand how their locations played a part in the overall company success; allowing for a more cohesive culture building opportunity
