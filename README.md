@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Technical Skills:  
-Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power Tools, Microsoft PowerBI
+Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power Tools, Microsoft PowerBI, Data Models
 
 ## Education
 
