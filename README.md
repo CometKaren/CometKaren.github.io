@@ -9,9 +9,11 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
 * Certificate with High Honours: Accounting | Sheridan College (_2008_)  
 * BSc Dual Major: Computer Science & Applied Mathematics | University of Western Ontario (_1999_)  
 
-<!--
 ## Projects
--->
+#### Using Generative Text AI to Categorize Material  
+
+
+
 ## Work Experience
 #### Data Analyst @ Iconix WaterWorks LP (_2006-Present_)
 - Created interative dashboards using **Power BI** to visually present data-driven insights to operational staff, resulting in significant increase in their understanding of inventory issues, and leading to a **40% decrease** in outstanding paperwork processes.
