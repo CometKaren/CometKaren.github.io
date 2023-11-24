@@ -13,7 +13,7 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
 ## Projects
 -->
 ## Work Experience
-#### Inventory & Business Process Specialist (Data Analyst) @ Iconix WaterWorks LP (_2006-Nov 2023_)
+#### Inventory & Business Process Specialist (Data Analyst) @ Iconix WaterWorks LP (_2006-2023_)
 - Identified data dependencies and discrepancies; Conducted comprehensive data quality assessments using **Trifacta** and **Excel Data Models** with a primary focus on standardizing and seamlessly integrating ERP systems.
   - understanding the data needs of the new ERP system, the current ERP system, and what data requires modification as we move from one to the other
   - created documentation as we continue to standardize the format and expectation of data that is manually entered, such as creating material descriptions
