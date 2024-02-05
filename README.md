@@ -30,7 +30,7 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
   - The company decided to change from Sales Matrix pricing to Replacement Cost pricing, this was a shift in thinking and required new decision matrixes to be developed, as well as identifying what background information was now required. Change Management was also a large factor that contributed to the success.
 
 
-#### Configuration Builder @ Spectra (_2000-2004_)
+#### Configuration Builder @ Sanchez Computer Associates Inc. (_2000-2005_)
 - Configured customized banking software; working with both development and testing teams.
   - Once development was complete, the project would come through the configuration department where we would configure the software, quickly edit any syntax issues that arose,
     and forward back to the development team if there was a larger error, or forward through to the testing department if the configuration building was complete.
