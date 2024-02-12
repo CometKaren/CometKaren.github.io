@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Technical Skills:  
-Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power Tools, Microsoft PowerBI
+Python, R, SQL, Designer Cloud (Trifacta), ClickUp, Tableau, Microsoft Excel Power Tools, Microsoft PowerBI, Insight Software (Jet)
 
 ## Education
 
@@ -13,7 +13,7 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
 ## Projects
 -->
 ## Work Experience
-#### Inventory & Business Process Specialist (Data Analyst) @ Iconix WaterWorks LP (_2006-2023_)
+#### Inventory & Business Process Specialist | Data Analyst @ Iconix WaterWorks LP (_2006-2023_)
 - Identified data dependencies and discrepancies; Conducted comprehensive data quality assessments using **Trifacta** and **Excel Data Models** with a primary focus on standardizing and seamlessly integrating ERP systems.
   - understanding the data needs of the new ERP system, the current ERP system, and what data requires modification as we move from one to the other
   - created documentation as we continue to standardize the format and expectation of data that is manually entered, such as creating material descriptions
@@ -32,19 +32,8 @@ Python, R, SQL, NoSQL, Designer Cloud (Trifacta), Tableau, Microsoft Excel Power
 
 #### Configuration Builder @ Sanchez Computer Associates Inc. (_2000-2005_)
 - Configured customized banking software; working with both development and testing teams.
-  - Once development was complete, the project would come through the configuration department where we would configure the software, quickly edit any syntax issues that arose,
-    and forward back to the development team if there was a larger error, or forward through to the testing department if the configuration building was complete.
-  - If the building of the software did not complete due to development concerns or issues, I would attempt to pinpoint the issue to share back with the development team to assist them with the fix.
-  - Update the documentation to include the build #, and what was updated so the testers would know which test cases to perform on the customized software.
+  - pinpointing any issues that arose and shared with the development team
+  - documented the changes between builds for the testing team to develop testing plans
 - Avoided scheduling conflicts between multiple projects
-  - There were many different software projects and customizations ongoing, as the configuration builders, it was our responsibility to ensure that the correct fixes and upgrades went into the correct versions of the
-    customized software and work with both the development teams and testing teams to ensure that the customer received their software on time with the correct updates
-
-
-<!-- 
-* streamlined process to rebalance inventory to reduce transfer costs  
-* assessed business processes and identified ways to boost improvement
-* (Share examples)
-* identified patterns and trends in large data sets and provided actionable insights
-* (share examples)
--->
+  - many different software projects and customizations required the correct fixes and upgrades went into the correct versions of the
+    customized software and to ensure that the customer received their software on time with the correct updates / upgrades
