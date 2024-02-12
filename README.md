@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Technical Skills:  
-Python | R | SQL | Alteryx Designer Cloud (Trifacta) | Insight Software (Jet) | ClickUp  
+Python | R | SQL | Alteryx Designer Cloud (Trifacta)  
+Insight Software (Jet) | ClickUp  
 Tableau | Microsoft Excel Power Tools | Microsoft PowerBI  
 
 ## Education
