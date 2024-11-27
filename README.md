@@ -10,6 +10,33 @@
 * *Operating Systems & Environments:*  
   * Microsoft Azure, Unix, MS-DOS, Linux  
 
+### Core Competencies  
+### Data Governance  
+- **Data Quality and Compliance**: Established and maintained robust data quality processes to ensure data integrity and reliability.  
+- **Auditing and Standards**: Conducted data audits and implemented standards to align with organizational and regulatory requirements.  
+
+#### Data Mining and Model Building  
+- **Data Mining Techniques**: Applied advanced data mining methods to extract actionable insights from diverse datasets.  
+- **Predictive Modeling**: Built and deployed predictive models to identify trends, improve operational efficiencies, and support data-driven strategies.  
+
+#### Database Management and SQL  
+- **Database Integration**: Designed and managed relational database systems, ensuring seamless data integration and retrieval.  
+- **SQL Expertise**: Developed complex SQL queries and optimized ETL pipelines to support large-scale data operations.  
+
+#### Data Visualization  
+- **Dynamic Dashboards**: Created interactive dashboards using Power BI, Tableau, and Excel to present data insights effectively.  
+- **Tailored Visualizations**: Designed data visualizations for both technical experts and business stakeholders to ensure clarity and usability.  
+
+#### Cross-Functional Collaboration  
+- **Team Synergy**: Partnered with IT, marketing, and product teams to implement data solutions that align with business goals.  
+- **Stakeholder Communication**: Acted as a liaison between technical teams and end-users to translate data insights into actionable strategies.  
+
+#### Documentation and Training  
+- **Comprehensive Documentation**: Developed detailed technical documentation for back-end processes to enable reproducibility and adherence to best practices.  
+- **User-Focused Manuals**: Created user-friendly guides and documentation to ensure end-users understand and effectively utilize tools and insights.  
+- **Training and Onboarding**: Designed and conducted training sessions for technical and non-technical audiences, improving tool adoption and data literacy across teams.  
+
+
 ## Education
 * Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)  
   * *Relevant Coursework*  
