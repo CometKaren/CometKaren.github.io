@@ -2,7 +2,8 @@
 
 ### Technical Skills:  
 *Data Analysis & Visualization Tools:*  
-  * PowerBI, Tableau, Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports, Microsoft Excel Power Suite, Access  
+  * PowerBI, Tableau, Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports, Microsoft Excel Power Suite, Access
+
 *Programming Languages:*  
   * Python, R, DAX, SQL, HTML, C, Fortran, Pascal, HTML  
 *Project Management & Collaboration Tools:*  
