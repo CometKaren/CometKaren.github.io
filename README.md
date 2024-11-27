@@ -34,19 +34,19 @@ Developed a comprehensive Vendor Ranking Model designed to support procurement d
 **Key Objectives**:  
  - Integrate data from diverse sources (ERP system, finance, parent company rebate data) to create a unified dataset for vendor evaluation.  
  - Develop a flexible ranking system with customizable weights for five key components, converting qualitative information into quantifiable metrics for vendor comparison.  
- - Build a robust data model to allow dynamic updates and scalable vendor rankings based on changing business needs and priorities.
+ - Build a robust data model to allow dynamic updates and scalable vendor rankings based on changing business needs and priorities.  
 **Challenges & Solutions**:  
  - **Challenge**: Managing the complexity of pulling data from disparate sources (ERP, finance, rebates).  
   **Solution**: Implemented an automated data integration pipeline to ensure seamless data collection and standardization across systems.  
  - **Challenge**: Translating qualitative assessments (e.g., vendor reliability, customer service) into quantitative metrics for comparison.  
-  **Solution**: Worked with cross-functional teams to define key criteria and applied data transformation techniques to convert qualitative data into measurable scores.
+  **Solution**: Worked with cross-functional teams to define key criteria and applied data transformation techniques to convert qualitative data into measurable scores.  
 **Outcome**:  
  - Enabled procurement teams to identify and negotiate with the most cost-effective vendors, improving material cost savings and optimizing inventory purchases.  
  - Streamlined vendor selection process, reducing decision-making time by 30%.  
 **Impact**:  
 Contributed to improved procurement strategies and stronger vendor relationships by ensuring data-driven, transparent decision-making processes.  
 
-### **Automated Inventory Replenishment System**
+### **Automated Inventory Replenishment System**  
 **Tools Used**: SQL, ERP System, Excel  
 **Project Overview**:  
 Developed an automated inventory replenishment system designed to optimize stock levels by predicting demand and automating the replenishment process. The system used historical sales data and inventory trends to forecast demand and recommend stock orders for low-stock items.  
@@ -56,7 +56,7 @@ Developed an automated inventory replenishment system designed to optimize stock
 - Improve inventory management and reduce the risk of stockouts.  
 **Challenges & Solutions**:  
 - **Challenge**: Inconsistent demand patterns due to seasonal fluctuations and promotions made accurate forecasting difficult.  
-  **Solution**: Integrated advanced forecasting models in Python to account for seasonality, promotions, and regional differences in demand, resulting in more accurate predictions.
+  **Solution**: Integrated advanced forecasting models in Python to account for seasonality, promotions, and regional differences in demand, resulting in more accurate predictions.  
 - **Challenge**: Manual replenishment processes were time-consuming and prone to human error.  
   **Solution**: Automated the replenishment process through integration with the ERP system, reducing manual intervention and improving accuracy.  
 **Outcome**:  
