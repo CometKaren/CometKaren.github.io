@@ -11,20 +11,22 @@
   * Microsoft Azure, Unix, MS-DOS, Linux  
 
 ### Core Competencies  
-### Data Governance  
+#### Data Governance  
 - **Data Quality and Compliance**: Established and maintained robust data quality processes to ensure data integrity and reliability.  
 - **Auditing and Standards**: Conducted data audits and implemented standards to align with organizational and regulatory requirements.  
 
 #### Data Mining and Model Building  
 - **Data Mining Techniques**: Applied advanced data mining methods to extract actionable insights from diverse datasets.  
-- **Predictive Modeling**: Built and deployed predictive models to identify trends, improve operational efficiencies, and support data-driven strategies.  
+- **Predictive Modeling**: Built and deployed predictive models to identify trends, improve operational efficiencies, and support data-driven strategies.
+- **Data Structuring**: Developed and optimized data models to enhance the accuracy and efficiency of analyses and reporting tools.  
 
 #### Database Management and SQL  
 - **Database Integration**: Designed and managed relational database systems, ensuring seamless data integration and retrieval.  
 - **SQL Expertise**: Developed complex SQL queries and optimized ETL pipelines to support large-scale data operations.  
 
 #### Data Visualization  
-- **Dynamic Dashboards**: Created interactive dashboards using Power BI, Tableau, and Excel to present data insights effectively.  
+- **Dynamic Dashboards**: Created interactive dashboards using Power BI, Tableau, and Excel to present data insights effectively.
+- **Data Modeling**: Designed and implemented data models in Power BI and Excel to structure information and enable advanced analytics.  
 - **Tailored Visualizations**: Designed data visualizations for both technical experts and business stakeholders to ensure clarity and usability.  
 
 #### Cross-Functional Collaboration  
