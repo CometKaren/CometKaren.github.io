@@ -29,50 +29,40 @@
 ## Projects
 ### **Vendor Ranking Model for Procurement Optimization**  
 **Tools Used**: SQL, Excel, ERP Systems, PowerBI  
-
 **Project Overview**:  
-  Developed a comprehensive Vendor Ranking Model designed to support procurement decisions by mining data from various sources, including ERP systems, finance data, and rebate information provided by the parent company. The model allowed for the identification of the most cost-effective vendors, providing actionable insights for negotiations and procurement planning.  
-
+Developed a comprehensive Vendor Ranking Model designed to support procurement decisions by mining data from various sources, including ERP systems, finance data, and rebate information provided by the parent company. The model allowed for the identification of the most cost-effective vendors, providing actionable insights for negotiations and procurement planning.  
 **Key Objectives**:  
  - Integrate data from diverse sources (ERP system, finance, parent company rebate data) to create a unified dataset for vendor evaluation.  
  - Develop a flexible ranking system with customizable weights for five key components, converting qualitative information into quantifiable metrics for vendor comparison.  
  - Build a robust data model to allow dynamic updates and scalable vendor rankings based on changing business needs and priorities.
-
 **Challenges & Solutions**:  
  - **Challenge**: Managing the complexity of pulling data from disparate sources (ERP, finance, rebates).  
   **Solution**: Implemented an automated data integration pipeline to ensure seamless data collection and standardization across systems.  
  - **Challenge**: Translating qualitative assessments (e.g., vendor reliability, customer service) into quantitative metrics for comparison.  
   **Solution**: Worked with cross-functional teams to define key criteria and applied data transformation techniques to convert qualitative data into measurable scores.
-
 **Outcome**:  
  - Enabled procurement teams to identify and negotiate with the most cost-effective vendors, improving material cost savings and optimizing inventory purchases.  
  - Streamlined vendor selection process, reducing decision-making time by 30%.  
-
 **Impact**:  
- - Contributed to improved procurement strategies and stronger vendor relationships by ensuring data-driven, transparent decision-making processes.  
+Contributed to improved procurement strategies and stronger vendor relationships by ensuring data-driven, transparent decision-making processes.  
 
 ### **Automated Inventory Replenishment System**
 **Tools Used**: SQL, ERP System, Excel  
-
 **Project Overview**:  
-  Developed an automated inventory replenishment system designed to optimize stock levels by predicting demand and automating the replenishment process. The system used historical sales data and inventory trends to forecast demand and recommend stock orders for low-stock items.  
-
+Developed an automated inventory replenishment system designed to optimize stock levels by predicting demand and automating the replenishment process. The system used historical sales data and inventory trends to forecast demand and recommend stock orders for low-stock items.  
 **Key Objectives**:  
 - Forecast future inventory demand based on historical data.  
 - Automate the replenishment process to ensure timely restocking of products.  
 - Improve inventory management and reduce the risk of stockouts.  
-
 **Challenges & Solutions**:  
 - **Challenge**: Inconsistent demand patterns due to seasonal fluctuations and promotions made accurate forecasting difficult.  
   **Solution**: Integrated advanced forecasting models in Python to account for seasonality, promotions, and regional differences in demand, resulting in more accurate predictions.
 - **Challenge**: Manual replenishment processes were time-consuming and prone to human error.  
   **Solution**: Automated the replenishment process through integration with the ERP system, reducing manual intervention and improving accuracy.  
-
 **Outcome**:  
 - Developed a dynamic and accurate demand forecasting model.  
 - Automated replenishment workflows, reducing manual stock management tasks.  
 - Integrated the system with the ERP for seamless real-time data access.  
-
 **Impact**:  
 - Increased order fulfillment rates by 25%.  
 - Reduced stockouts and improved inventory accuracy.  
@@ -80,15 +70,12 @@
 
 ### **ERP Transition & Integration Projects**
 **Tools Used**: ERP System, SQL, PIM System, Trifacta, Data Auditing Tools  
-
 **Project Overview**:  
-  This series of projects focused on the integration of multiple company databases into a unified ERP system, including standardizing item data across regions and entities and preparing for future system migrations. I worked across three distinct phases: merging Ontario’s database with the national system, transitioning an acquired company into our ERP, and preparing for a potential shift to a new ERP system by standardizing data in a central PIM system.  
-
+This series of projects focused on the integration of multiple company databases into a unified ERP system, including standardizing item data across regions and entities and preparing for future system migrations. I worked across three distinct phases: merging Ontario’s database with the national system, transitioning an acquired company into our ERP, and preparing for a potential shift to a new ERP system by standardizing data in a central PIM system.  
 **Key Objectives**:  
 - Align item number structures, descriptions, and standard terms across multiple databases.  
 - Ensure accurate data migration and integration by resolving discrepancies and duplicates.  
 - Prepare the organization for a potential ERP system transition by standardizing data for reporting.  
-
 **Challenges & Solutions**:  
 - **Challenge**: Standardizing different data structures (Ontario vs. other regions) and aligning them with the ERP system.
   **Solution**: Coordinated with multiple teams to build consensus on item number structures and descriptions.  
@@ -96,27 +83,22 @@
   **Solution**: Carried out comprehensive audits and worked with teams to address these issues.  
 - **Challenge**: Preparing for the future ERP move by integrating the PIM system to standardize item data.
   **Solution**: Used Trifacta to quickly edit and prepare data for integration, ensuring that all fields were in alignment before merging.
-
 **Outcome**:  
 - Achieved seamless data integration for the Ontario database and the acquired company.  
 - Standardized product information across systems for future reporting and analysis.  
 - Created a working record to track data updates and ensure alignment across systems, improving data visibility.  
-
 **Impact**:  
 - Improved operational efficiency through data consistency across the ERP and PIM systems.  
 - Set the foundation for future ERP system migrations by ensuring data was standardized and easily reportable.
 
 ### **Outstanding Paperwork Reduction through PowerBI Dashboards**  
 **Tools Used**: PowerBI, SQL, Data Auditing Tools  
-
 **Project Overview**:  
-  This project focused on reducing the outstanding paperwork associated with inventory and order processes by leveraging PowerBI to create interactive dashboards. These dashboards helped operational staff better understand inventory issues, compliance status, and document timelines, leading to a significant improvement in process efficiency and document management.  
-
+This project focused on reducing the outstanding paperwork associated with inventory and order processes by leveraging PowerBI to create interactive dashboards. These dashboards helped operational staff better understand inventory issues, compliance status, and document timelines, leading to a significant improvement in process efficiency and document management.  
 **Key Objectives**:  
 - Develop a system to visually track and manage outstanding paperwork and inventory-related documentation.  
 - Provide real-time, actionable insights into document compliance and inventory status.  
 - Increase understanding of operational bottlenecks and enable more informed decision-making.  
-
 **Challenges & Solutions**:  
 - **Challenge**: Disconnected and fragmented data sources, which made it difficult to get a comprehensive view of outstanding paperwork.
   **Solution**: Created automated data models and integrated them into PowerBI to streamline data retrieval and analysis.  
@@ -124,18 +106,15 @@
   **Solutions**: Designed interactive dashboards with intuitive filters (e.g., document type, compliance status) that enabled staff to easily navigate and manage compliance.  
 - **Challenge**: The need for adaptable solutions to accommodate changing business processes and compliance requirements.
   **Solution**: Built flexible thresholds for document timelines and added audit features to ensure scalability and responsiveness.  
-
 **Outcome**:  
 - Delivered interactive PowerBI dashboards that provided real-time visibility into the status of outstanding paperwork and inventory issues.  
 - Developed automated data models with audit features, which improved the tracking and reporting of compliance data.  
 - Implemented iterative adjustments to compliance thresholds based on feedback and operational improvements, enabling continuous refinement of processes.  
-
 **Impact**:  
 - Achieved a 40% reduction in outstanding paperwork processes, streamlining inventory and order management.  
 - Enhanced operational staff's understanding of inventory issues, allowing for quicker resolution and improved decision-making.  
 - Supported better alignment with management’s expectations and improved overall compliance tracking.
 
-    
 ## Work Experience
 #### Data Analyst | Inventory & Business Process Specialist @ Iconix WaterWorks LP (_2006-2023_)
 Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
