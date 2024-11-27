@@ -65,7 +65,6 @@ Led data-driven insights that optimized inventory processes, improved business w
   - Conducted gap analysis to identify missing and inconsistent data between legacy and new ERP systems; implemented corrective measures for seamless data migration.
   - Developed documentation to standardize data entry protocols, including material descriptions and formatting key fields for compliance with the new ERP system.
   - Identified critical fields required by the new ERP system but not mandatory in the legacy system; collaborated with teams to adapt business processes accordingly.
-
 *	Developed automated analysis tool that suggested transfers between overstock and understocked inventory locations based on historical movement, dollar value, and geographic locations. Lowering write off by 70%.
   - Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
   - Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
