@@ -1,37 +1,47 @@
 /* Import the default Jekyll theme styles */
 @import "jekyll-theme-minimal";
 
-/* Override styles to remove white space on left and right */
+/* Ensure that the page takes up the full screen width */
 html, body {
   height: 100%;
-  margin: 0; /* Remove default margins */
-  padding: 0; /* Remove default padding */
-  width: 100%; /* Ensure full width */
-}
-
-.wrapper {
-  width: 100%; /* Take up full width of the screen */
-  margin: 0; /* Remove any margin around the wrapper */
-  padding: 0 20px; /* Optional: Add some padding to avoid content being too close to the edge */
-  box-sizing: border-box; /* Ensure padding is included in the width calculation */
-}
-
-header {
+  margin: 0;
+  padding: 0;
   width: 100%;
+}
+
+/* Remove any container or wrapper that may be constraining the width */
+.wrapper, .container {
+  width: 100% !important; /* Force full width */
+  max-width: 100% !important; /* Remove max-width constraints */
+  margin: 0 !important; /* Remove margin */
+  padding: 0 20px; /* Optional: Add some padding if you don't want content touching the edges */
+  box-sizing: border-box;
+}
+
+/* Apply full width to header */
+header {
+  width: 100% !important;
   margin: 0;
   padding: 0;
 }
 
+/* Ensure that all sections and content blocks use full width */
+section {
+  width: 100%;
+  margin: 0;
+  padding: 20px; /* Optional: Add padding to sections */
+  box-sizing: border-box;
+}
+
+/* Remove unwanted padding and margins from specific elements */
 .view, .downloads, p, ul, li, a {
-  max-width: 100%;
   width: 100%;
   margin-left: 0;
   margin-right: 0;
 }
 
-/* Optional: Adjust page content layout further if needed */
-section {
-  width: 100%;
-  padding: 20px; /* Add padding if needed */
-  box-sizing: border-box;
+/* Adjust images to take up full width if needed */
+img {
+  max-width: 100%;
+  height: auto;
 }
