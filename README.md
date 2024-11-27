@@ -62,33 +62,29 @@
 Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
 
 * Led team project planning using the Waterfall method to assist with the company’s ERP system transition. Conducted comprehensive data audits to identify critical and missing information, developed reporting tools to track audit results, and implemented a structured plan that led to a 30% reduction in data processing time.
-  - Conducted gap analysis to identify missing and inconsistent data between legacy and new ERP systems; implemented corrective measures for seamless data migration.
-  - Developed documentation to standardize data entry protocols, including material descriptions and formatting key fields for compliance with the new ERP system.
-  - Identified critical fields required by the new ERP system but not mandatory in the legacy system; collaborated with teams to adapt business processes accordingly.
-*	Developed automated analysis tool that suggested transfers between overstock and understocked inventory locations based on historical movement, dollar value, and geographic locations. Lowering write off by 70%.
-  - Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
-  - Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
-  - Conducted robust data audits and assisted with SQL testing and debugging during development to ensure accurate data retrieval from the correct tables, supporting reliable tool performance and user confidence.
+  * Conducted gap analysis to identify missing and inconsistent data between legacy and new ERP systems; implemented corrective measures for seamless data migration.
+  * Developed documentation to standardize data entry protocols, including material descriptions and formatting key fields for compliance with the new ERP system.
+  * Identified critical fields required by the new ERP system but not mandatory in the legacy system; collaborated with teams to adapt business processes accordingly.
+* Developed automated analysis tool that suggested transfers between overstock and understocked inventory locations based on historical movement, dollar value, and geographic locations. Lowering write off by 70%.
+  * Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
+  * Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
+  * Conducted robust data audits and assisted with SQL testing and debugging during development to ensure accurate data retrieval from the correct tables, supporting reliable tool performance and user confidence.
 *	Performed predictive modeling that verified budget accuracy and appropriateness of diversity of materials.
-- Predicted material demand by category and region, such as forecasting small-diameter pipe sales in the first six months within Lower Mainland BC, to provide data-driven insights.
-- Compared predictive outcomes against financial budgets to validate budget accuracy and ensure appropriate material diversity across regions and categories.
-- Used modeling results to support vendor negotiations, achieving better discounts and scheduling shipments strategically to align with forecasted demand and storage capacity.
-
+  * Predicted material demand by category and region, such as forecasting small-diameter pipe sales in the first six months within Lower Mainland BC, to provide data-driven insights.
+  * Compared predictive outcomes against financial budgets to validate budget accuracy and ensure appropriate material diversity across regions and categories.
+  * Used modeling results to support vendor negotiations, achieving better discounts and scheduling shipments strategically to align with forecasted demand and storage capacity.
 *	Decreased outstanding paperwork processes 40% by creating interactive dashboards using PowerBI to visually present data driven insights to operational staff, resulting in significant increase in understanding of inventory issues.
   * Designed interactive Power BI dashboards with intuitive filters for document type and compliance status (e.g., "Good," "Not so Good," "Bad"), streamlining data access for operational staff.
   * Built automated data models with audit features, flexible thresholds for document timelines, and additional measures to ensure scalability and adaptability to changing business needs.
   * Iteratively tightened compliance thresholds based on management expectations, starting broad and refining as locations improved, resulting in a 40% reduction in outstanding paperwork processes.
-
 *	Collaborated with the parent company using Agile methodology to develop a Text Generation AI model for classifying new inventory items. Conducted iterative testing and refinement of Python scripts, completing a comprehensive data audit that improved model accuracy by altering key input fields.
-  * Collaborated with the parent company on a Natural Language Processing (NLP) project to classify vendor materials into predefined inventory categories, analyzing diverse vendor catalogs and descriptions to standardize classifications.
-  * Reviewed over 50 fields of existing company data to identify those most relevant for categorization, leveraging this information to train and validate the AI model using historical manually categorized entries.
-  * Conducted iterative testing and refinement of Python scripts, auditing data quality and adjusting key input fields to enhance model accuracy and improve alignment with business requirements.
-
+  *	Collaborated with the parent company on a Natural Language Processing (NLP) project to classify vendor materials into predefined inventory categories, analyzing diverse vendor catalogs and descriptions to standardize classifications.
+  *	Reviewed over 50 fields of existing company data to identify those most relevant for categorization, leveraging this information to train and validate the AI model using historical manually categorized entries.
+  *	Conducted iterative testing and refinement of Python scripts, auditing data quality and adjusting key input fields to enhance model accuracy and improve alignment with business requirements.
 *	Developed a comprehensive Vendor Ranking Model to support procurement decisions and vendor negotiations by integrating data from multiple sources, including the ERP system, finance department, and parent company rebate information. Designed a complex data model with flexible weighting of components, translating qualitative insights into quantitative measures to enable effective vendor comparison.
-  * Integrated data from various sources, consolidating financial, operational, and rebate information to create a centralized dataset for vendor evaluation.
-  * Utilized five distinct components in the ranking process, converting qualitative inputs into quantifiable metrics to ensure an objective comparison of vendors.
-  * Designed a scalable and adaptable data model to rank vendors dynamically, providing branches with actionable insights for cost-effective procurement decisions and improved vendor negotiations.
-
+  *	Integrated data from various sources, consolidating financial, operational, and rebate information to create a centralized dataset for vendor evaluation.
+  *	Utilized five distinct components in the ranking process, converting qualitative inputs into quantifiable metrics to ensure an objective comparison of vendors.
+  *	Designed a scalable and adaptable data model to rank vendors dynamically, providing branches with actionable insights for cost-effective procurement decisions and improved vendor negotiations.
 * Collaborated with cross-functional teams, including finance, operations, and IT, to evaluate and enhance business processes, aligning outcomes with strategic goals and fostering consensus among diverse stakeholders.
   * Partnered with team members across departments to uncover and address underlying business needs, ensuring solutions met the requirements of all stakeholders.
   * Facilitated discussions to resolve disagreements on key performance indicators (KPIs), working toward mutually acceptable definitions and metrics that aligned with organizational objectives.
@@ -96,9 +92,9 @@ Led data-driven insights that optimized inventory processes, improved business w
 
 #### Configuration Builder @ Sanchez Computer Associates Inc. (_2000-2005_)
 Ensured timely and accurate delivery of customized investment banking software by coordinating with development and testing teams. Maintained a strong focus on quality assurance and meeting client-specific requirements.  
-- Configured customized banking software; working with both development and testing teams.
-  - pinpointing any issues that arose and shared with the development team
-  - documented the changes between builds for the testing team to develop testing plans
-- Avoided scheduling conflicts between multiple projects
-  - many different software projects and customizations required the correct fixes and upgrades went into the correct versions of the
+* Configured customized banking software; working with both development and testing teams.
+  * pinpointing any issues that arose and shared with the development team
+  * documented the changes between builds for the testing team to develop testing plans
+* Avoided scheduling conflicts between multiple projects
+  * many different software projects and customizations required the correct fixes and upgrades went into the correct versions of the
     customized software and to ensure that the customer received their software on time with the correct updates / upgrades
