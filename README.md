@@ -58,7 +58,9 @@
 ## Projects
 -->
 ## Work Experience
-#### Inventory & Business Process Specialist | Data Analyst @ Iconix WaterWorks LP (_2006-2023_)
+#### Data Analyst | Inventory & Business Process Specialist @ Iconix WaterWorks LP (_2006-2023_)
+Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
+
 - Identified data dependencies and discrepancies; Conducted comprehensive data quality assessments using **Trifacta** and **Excel Data Models** with a primary focus on standardizing and seamlessly integrating ERP systems.
   - understanding the data needs of the new ERP system, the current ERP system, and what data requires modification as we move from one to the other
   - created documentation as we continue to standardize the format and expectation of data that is manually entered, such as creating material descriptions
@@ -76,6 +78,7 @@
 
 
 #### Configuration Builder @ Sanchez Computer Associates Inc. (_2000-2005_)
+Ensured timely and accurate delivery of customized investment banking software by coordinating with development and testing teams. Maintained a strong focus on quality assurance and meeting client-specific requirements.  
 - Configured customized banking software; working with both development and testing teams.
   - pinpointing any issues that arose and shared with the development team
   - documented the changes between builds for the testing team to develop testing plans
