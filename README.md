@@ -1,43 +1,15 @@
 # Data Scientist
 
-### Technical Skills:  
-* *Data Analysis & Visualization Tools:*  
-  * PowerBI, Tableau, Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports, Microsoft Excel Power Suite (Power Query, Power Pivot, Power View)
-* *Programming Languages:*  
-  * Python, R, DAX, SQL, HTML, C, HTML  
-* *Project Management & Collaboration Tools:*  
-  * Jira, Confluence, Trello, ClickUp, GitHub, SharePoint, Microsoft Visio  
-* *Operating Systems & Environments:*  
-  * Microsoft Azure, Unix, MS-DOS, Linux  
-
-### Core Competencies  
-#### Data Governance  
-- **Data Quality and Compliance**: Established and maintained robust data quality processes to ensure data integrity and reliability.  
-- **Auditing and Standards**: Conducted data audits and implemented standards to align with organizational and regulatory requirements.  
-
-#### Data Mining and Model Building  
-- **Data Mining Techniques**: Applied advanced data mining methods to extract actionable insights from diverse datasets.  
-- **Predictive Modeling**: Built and deployed predictive models to identify trends, improve operational efficiencies, and support data-driven strategies.
-- **Data Structuring**: Developed and optimized data models to enhance the accuracy and efficiency of analyses and reporting tools.  
-
-#### Database Management and SQL  
-- **Database Integration**: Designed and managed relational database systems, ensuring seamless data integration and retrieval.  
-- **SQL Expertise**: Developed complex SQL queries and optimized ETL pipelines to support large-scale data operations.  
-
-#### Data Visualization  
-- **Dynamic Dashboards**: Created interactive dashboards using Power BI, Tableau, and Excel to present data insights effectively.
-- **Data Modeling**: Designed and implemented data models in Power BI and Excel to structure information and enable advanced analytics.  
-- **Tailored Visualizations**: Designed data visualizations for both technical experts and business stakeholders to ensure clarity and usability.  
-
-#### Cross-Functional Collaboration  
-- **Team Synergy**: Partnered with IT, marketing, and product teams to implement data solutions that align with business goals.  
-- **Stakeholder Communication**: Acted as a liaison between technical teams and end-users to translate data insights into actionable strategies.  
-
-#### Documentation and Training  
-- **Comprehensive Documentation**: Developed detailed technical documentation for back-end processes to enable reproducibility and adherence to best practices.  
-- **User-Focused Manuals**: Created user-friendly guides and documentation to ensure end-users understand and effectively utilize tools and insights.  
-- **Training and Onboarding**: Designed and conducted training sessions for technical and non-technical audiences, improving tool adoption and data literacy across teams.  
-
+### **Key Technologies & Skills Summary**
+- ***Data Analysis & Visualization***: Power BI, Tableau, Microsoft Excel (Power Query, Power Pivot, Power View), Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports  
+- ***Programming Languages***: Python, R, DAX, SQL, HTML, C  
+- ***Database Management***: SQL, ETL Processes, Database Integration  
+- ***Data Mining & Model Building***: Predictive Modeling, Data Mining Techniques, Clustering, Classification  
+- ***Cloud & Development Tools***: Microsoft Azure, GitHub, Jira, Confluence  
+- ***Project Management Tools***: Trello, ClickUp, Microsoft Visio  
+- ***Operating Systems***: Unix, MS-DOS, Linux  
+- ***Machine Learning & AI***: Natural Language Processing, Supervised & Unsupervised Learning, AI Model Training  
+- ***Collaboration & Documentation***: SharePoint, Microsoft Office Suite, Documentation for End-Users & Technical Processes  
 
 ## Education
 * Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)  
@@ -54,47 +26,135 @@
     - Advanced Data Analytics: Designed and implemented a genetic algorithm to solve the Travelling Salesman Problem, achieving optimizing route efficiency. using evolutionary computation and optimization techniques.  
     - Applied Mathematics and Modelling: Explored various mathematical modeling techniques, applying them to analyze and solve real-world problems across different domains.  
 
-<!--
 ## Projects
--->
+### **Vendor Ranking Model for Procurement Optimization**  
+**Tools Used**: SQL, Excel, ERP Systems, PowerBI  
+
+**Project Overview**:  
+  Developed a comprehensive Vendor Ranking Model designed to support procurement decisions by mining data from various sources, including ERP systems, finance data, and rebate information provided by the parent company. The model allowed for the identification of the most cost-effective vendors, providing actionable insights for negotiations and procurement planning.  
+
+**Key Objectives**:  
+ - Integrate data from diverse sources (ERP system, finance, parent company rebate data) to create a unified dataset for vendor evaluation.  
+ - Develop a flexible ranking system with customizable weights for five key components, converting qualitative information into quantifiable metrics for vendor comparison.  
+ - Build a robust data model to allow dynamic updates and scalable vendor rankings based on changing business needs and priorities.
+
+**Challenges & Solutions**:  
+ - **Challenge**: Managing the complexity of pulling data from disparate sources (ERP, finance, rebates).  
+  **Solution**: Implemented an automated data integration pipeline to ensure seamless data collection and standardization across systems.  
+ - **Challenge**: Translating qualitative assessments (e.g., vendor reliability, customer service) into quantitative metrics for comparison.  
+  **Solution**: Worked with cross-functional teams to define key criteria and applied data transformation techniques to convert qualitative data into measurable scores.
+
+**Outcome**:  
+ - Enabled procurement teams to identify and negotiate with the most cost-effective vendors, improving material cost savings and optimizing inventory purchases.  
+ - Streamlined vendor selection process, reducing decision-making time by 30%.  
+
+**Impact**:  
+ - Contributed to improved procurement strategies and stronger vendor relationships by ensuring data-driven, transparent decision-making processes.  
+
+### **Automated Inventory Replenishment System**
+**Tools Used**: SQL, ERP System, Excel  
+
+**Project Overview**:  
+  Developed an automated inventory replenishment system designed to optimize stock levels by predicting demand and automating the replenishment process. The system used historical sales data and inventory trends to forecast demand and recommend stock orders for low-stock items.  
+
+**Key Objectives**:  
+- Forecast future inventory demand based on historical data.  
+- Automate the replenishment process to ensure timely restocking of products.  
+- Improve inventory management and reduce the risk of stockouts.  
+
+**Challenges & Solutions**:  
+- **Challenge**: Inconsistent demand patterns due to seasonal fluctuations and promotions made accurate forecasting difficult.  
+  **Solution**: Integrated advanced forecasting models in Python to account for seasonality, promotions, and regional differences in demand, resulting in more accurate predictions.
+- **Challenge**: Manual replenishment processes were time-consuming and prone to human error.  
+  **Solution**: Automated the replenishment process through integration with the ERP system, reducing manual intervention and improving accuracy.  
+
+**Outcome**:  
+- Developed a dynamic and accurate demand forecasting model.  
+- Automated replenishment workflows, reducing manual stock management tasks.  
+- Integrated the system with the ERP for seamless real-time data access.  
+
+**Impact**:  
+- Increased order fulfillment rates by 25%.  
+- Reduced stockouts and improved inventory accuracy.  
+- Streamlined the inventory replenishment process, leading to a more efficient and cost-effective supply chain.  
+
+### **ERP Transition & Integration Projects**
+**Tools Used**: ERP System, SQL, PIM System, Trifacta, Data Auditing Tools  
+
+**Project Overview**:  
+  This series of projects focused on the integration of multiple company databases into a unified ERP system, including standardizing item data across regions and entities and preparing for future system migrations. I worked across three distinct phases: merging Ontario’s database with the national system, transitioning an acquired company into our ERP, and preparing for a potential shift to a new ERP system by standardizing data in a central PIM system.  
+
+**Key Objectives**:  
+- Align item number structures, descriptions, and standard terms across multiple databases.  
+- Ensure accurate data migration and integration by resolving discrepancies and duplicates.  
+- Prepare the organization for a potential ERP system transition by standardizing data for reporting.  
+
+**Challenges & Solutions**:  
+- **Challenge**: Standardizing different data structures (Ontario vs. other regions) and aligning them with the ERP system.
+  **Solution**: Coordinated with multiple teams to build consensus on item number structures and descriptions.  
+- **Challenge**: Managing data integrity during the transition, including auditing and identifying missing fields or duplicates.
+  **Solution**: Carried out comprehensive audits and worked with teams to address these issues.  
+- **Challenge**: Preparing for the future ERP move by integrating the PIM system to standardize item data.
+  **Solution**: Used Trifacta to quickly edit and prepare data for integration, ensuring that all fields were in alignment before merging.
+
+**Outcome**:  
+- Achieved seamless data integration for the Ontario database and the acquired company.  
+- Standardized product information across systems for future reporting and analysis.  
+- Created a working record to track data updates and ensure alignment across systems, improving data visibility.  
+
+**Impact**:  
+- Improved operational efficiency through data consistency across the ERP and PIM systems.  
+- Set the foundation for future ERP system migrations by ensuring data was standardized and easily reportable.
+
+### **Outstanding Paperwork Reduction through PowerBI Dashboards**  
+**Tools Used**: PowerBI, SQL, Data Auditing Tools  
+
+**Project Overview**:  
+  This project focused on reducing the outstanding paperwork associated with inventory and order processes by leveraging PowerBI to create interactive dashboards. These dashboards helped operational staff better understand inventory issues, compliance status, and document timelines, leading to a significant improvement in process efficiency and document management.  
+
+**Key Objectives**:  
+- Develop a system to visually track and manage outstanding paperwork and inventory-related documentation.  
+- Provide real-time, actionable insights into document compliance and inventory status.  
+- Increase understanding of operational bottlenecks and enable more informed decision-making.  
+
+**Challenges & Solutions**:  
+- **Challenge**: Disconnected and fragmented data sources, which made it difficult to get a comprehensive view of outstanding paperwork.
+  **Solution**: Created automated data models and integrated them into PowerBI to streamline data retrieval and analysis.  
+- **Challenge**: Difficulty in tracking the status and compliance of documents across locations.
+  **Solutions**: Designed interactive dashboards with intuitive filters (e.g., document type, compliance status) that enabled staff to easily navigate and manage compliance.  
+- **Challenge**: The need for adaptable solutions to accommodate changing business processes and compliance requirements.
+  **Solution**: Built flexible thresholds for document timelines and added audit features to ensure scalability and responsiveness.  
+
+**Outcome**:  
+- Delivered interactive PowerBI dashboards that provided real-time visibility into the status of outstanding paperwork and inventory issues.  
+- Developed automated data models with audit features, which improved the tracking and reporting of compliance data.  
+- Implemented iterative adjustments to compliance thresholds based on feedback and operational improvements, enabling continuous refinement of processes.  
+
+**Impact**:  
+- Achieved a 40% reduction in outstanding paperwork processes, streamlining inventory and order management.  
+- Enhanced operational staff's understanding of inventory issues, allowing for quicker resolution and improved decision-making.  
+- Supported better alignment with management’s expectations and improved overall compliance tracking.
+
+    
 ## Work Experience
 #### Data Analyst | Inventory & Business Process Specialist @ Iconix WaterWorks LP (_2006-2023_)
 Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
 
-* Led team project planning using the Waterfall method to assist with the company’s ERP system transition. Conducted comprehensive data audits to identify critical and missing information, developed reporting tools to track audit results, and implemented a structured plan that led to a 30% reduction in data processing time.
-  * Conducted gap analysis to identify missing and inconsistent data between legacy and new ERP systems; implemented corrective measures for seamless data migration.
-  * Developed documentation to standardize data entry protocols, including material descriptions and formatting key fields for compliance with the new ERP system.
-  * Identified critical fields required by the new ERP system but not mandatory in the legacy system; collaborated with teams to adapt business processes accordingly.
-* Developed automated analysis tool that suggested transfers between overstock and understocked inventory locations based on historical movement, dollar value, and geographic locations. Lowering write off by 70%.
-  * Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
-  * Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
-  * Conducted robust data audits and assisted with SQL testing and debugging during development to ensure accurate data retrieval from the correct tables, supporting reliable tool performance and user confidence.  
-*	Performed predictive modeling that verified budget accuracy and appropriateness of diversity of materials.
-    * Predicted material demand by category and region, such as forecasting small-diameter pipe sales in the first six months within Lower Mainland BC, to provide data-driven insights.
-    * Compared predictive outcomes against financial budgets to validate budget accuracy and ensure appropriate material diversity across regions and categories.
-    * Used modeling results to support vendor negotiations, achieving better discounts and scheduling shipments strategically to align with forecasted demand and storage capacity.  
-*	Decreased outstanding paperwork processes 40% by creating interactive dashboards using PowerBI to visually present data driven insights to operational staff, resulting in significant increase in understanding of inventory issues.
-    *	Designed interactive Power BI dashboards with intuitive filters for document type and compliance status (e.g., "Good," "Not so Good," "Bad"), streamlining data access for operational staff.
-    *	Built automated data models with audit features, flexible thresholds for document timelines, and additional measures to ensure scalability and adaptability to changing business needs.
-    *	Iteratively tightened compliance thresholds based on management expectations, starting broad and refining as locations improved, resulting in a 40% reduction in outstanding paperwork processes.  
-*	Collaborated with the parent company using Agile methodology to develop a Text Generation AI model for classifying new inventory items. Conducted iterative testing and refinement of Python scripts, completing a comprehensive data audit that improved model accuracy by altering key input fields.
-    *	Collaborated with the parent company on a Natural Language Processing (NLP) project to classify vendor materials into predefined inventory categories, analyzing diverse vendor catalogs and descriptions to standardize classifications.
-    *	Reviewed over 50 fields of existing company data to identify those most relevant for categorization, leveraging this information to train and validate the AI model using historical manually categorized entries.
-    *	Conducted iterative testing and refinement of Python scripts, auditing data quality and adjusting key input fields to enhance model accuracy and improve alignment with business requirements.  
-*	Developed a comprehensive Vendor Ranking Model to support procurement decisions and vendor negotiations by integrating data from multiple sources, including the ERP system, finance department, and parent company rebate information. Designed a complex data model with flexible weighting of components, translating qualitative insights into quantitative measures to enable effective vendor comparison.
-    *	Integrated data from various sources, consolidating financial, operational, and rebate information to create a centralized dataset for vendor evaluation.
-    *	Utilized five distinct components in the ranking process, converting qualitative inputs into quantifiable metrics to ensure an objective comparison of vendors.
-    *	Designed a scalable and adaptable data model to rank vendors dynamically, providing branches with actionable insights for cost-effective procurement decisions and improved vendor negotiations.  
-* Collaborated with cross-functional teams, including finance, operations, and IT, to evaluate and enhance business processes, aligning outcomes with strategic goals and fostering consensus among diverse stakeholders.
-  * Partnered with team members across departments to uncover and address underlying business needs, ensuring solutions met the requirements of all stakeholders.
-  * Facilitated discussions to resolve disagreements on key performance indicators (KPIs), working toward mutually acceptable definitions and metrics that aligned with organizational objectives.
-  * Fostered a collaborative environment by ensuring all participants were comfortable with final outcomes, balancing differing perspectives to achieve buy-in and support for process improvements.  
+* Led the **data integration and process standardization** across regional teams to improve operational efficiency during system transitions, ensuring data accuracy and consistency in ERP system migrations.
+* **Collaborated** with cross-functional teams, including procurement, finance, and IT, to implement business process improvements that enhanced inventory management and reporting capabilities.
+* **Developed business processes** and **training materials** to support the adoption of new systems and tools, leading training sessions for staff and ensuring successful process integration.
+* **Managed** multiple initiatives involving data auditing, business process design, and workflow optimization, contributing to significant operational improvements and cost reductions.
+* **Advised senior management** on data strategy and provided actionable insights using PowerBI and other BI tools to inform decision-making and improve business performance.
+* **Coordinated ERP system transitions**, focusing on **data accuracy**, the creation of new item numbers, and the integration of various system components to enhance reporting and inventory management.  
+
+**Key Achievements**:
+* Played a pivotal role in the **successful transition** of multiple ERP systems across the organization, ensuring data integrity and business continuity during integration periods.
+* **Reduced data processing time by 30%** and lowered inventory write-offs by 70% by automating key reporting and decision-making processes.
+* **Streamlined reporting workflows**, decreasing administrative workload by 40% through the implementation of **interactive BI dashboards**.
+* Developed a **vendor ranking system** that directly influenced procurement strategies and improved vendor relations, contributing to more favorable pricing and rebate opportunities.
 
 #### Configuration Builder @ Sanchez Computer Associates Inc. (_2000-2005_)
 Ensured timely and accurate delivery of customized investment banking software by coordinating with development and testing teams. Maintained a strong focus on quality assurance and meeting client-specific requirements.  
-* Configured customized banking software; working with both development and testing teams.
-  * pinpointing any issues that arose and shared with the development team
-  * documented the changes between builds for the testing team to develop testing plans
-* Avoided scheduling conflicts between multiple projects
-  * many different software projects and customizations required the correct fixes and upgrades went into the correct versions of the
-    customized software and to ensure that the customer received their software on time with the correct updates / upgrades
+* **Configured customized investment banking software** for clients, ensuring alignment with business requirements and minimizing scheduling conflicts across projects.
+* **Collaborated** with clients and internal teams to ensure seamless integration and proper updates, maintaining the integrity and accuracy of the builds.
+* Supported **client communication** and provided ongoing technical assistance, ensuring that software solutions met client expectations and business objectives.
