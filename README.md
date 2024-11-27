@@ -1,13 +1,13 @@
 # Data Scientist
 
 ### Technical Skills:  
-Data Analysis & Visualization Tools:  
-PowerBI, Tableau, Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports, Microsoft Excel Power Suite, Access  
-Programming Languages:  
+#### Data Analysis & Visualization Tools:  
+• PowerBI, Tableau, Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports, Microsoft Excel Power Suite, Access  
+#### Programming Languages:  
 • Python, R, DAX, SQL, HTML, C, Fortran, Pascal, HTML  
-Project Management & Collaboration Tools:  
+#### Project Management & Collaboration Tools:  
 • Jira, Confluence, Trello, ClickUp, GitHub, SharePoint, Microsoft Visio  
-Operating Systems & Environments:  
+#### Operating Systems & Environments:  
 • Microsoft Azure, Unix, MS-DOS, Linux  
 
 
