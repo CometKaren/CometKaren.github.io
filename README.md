@@ -2,13 +2,13 @@
 
 ### Technical Skills:  
 *Data Analysis & Visualization Tools:*  
-  • PowerBI, Tableau, Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports, Microsoft Excel Power Suite, Access  
+  * PowerBI, Tableau, Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports, Microsoft Excel Power Suite, Access  
 *Programming Languages:*  
-  • Python, R, DAX, SQL, HTML, C, Fortran, Pascal, HTML  
+  * Python, R, DAX, SQL, HTML, C, Fortran, Pascal, HTML  
 *Project Management & Collaboration Tools:*  
-  • Jira, Confluence, Trello, ClickUp, GitHub, SharePoint, Microsoft Visio  
+  * Jira, Confluence, Trello, ClickUp, GitHub, SharePoint, Microsoft Visio  
 *Operating Systems & Environments:*  
-  • Microsoft Azure, Unix, MS-DOS, Linux  
+  * Microsoft Azure, Unix, MS-DOS, Linux  
 
 
 ## Education
