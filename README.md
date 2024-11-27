@@ -69,11 +69,10 @@ Led data-driven insights that optimized inventory processes, improved business w
   - Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
   - Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
   - Conducted robust data audits and assisted with SQL testing and debugging during development to ensure accurate data retrieval from the correct tables, supporting reliable tool performance and user confidence.
-
 *	Performed predictive modeling that verified budget accuracy and appropriateness of diversity of materials.
-  * Predicted material demand by category and region, such as forecasting small-diameter pipe sales in the first six months within Lower Mainland BC, to provide data-driven insights.
-  * Compared predictive outcomes against financial budgets to validate budget accuracy and ensure appropriate material diversity across regions and categories.
-  * Used modeling results to support vendor negotiations, achieving better discounts and scheduling shipments strategically to align with forecasted demand and storage capacity.
+- Predicted material demand by category and region, such as forecasting small-diameter pipe sales in the first six months within Lower Mainland BC, to provide data-driven insights.
+- Compared predictive outcomes against financial budgets to validate budget accuracy and ensure appropriate material diversity across regions and categories.
+- Used modeling results to support vendor negotiations, achieving better discounts and scheduling shipments strategically to align with forecasted demand and storage capacity.
 
 *	Decreased outstanding paperwork processes 40% by creating interactive dashboards using PowerBI to visually present data driven insights to operational staff, resulting in significant increase in understanding of inventory issues.
   * Designed interactive Power BI dashboards with intuitive filters for document type and compliance status (e.g., "Good," "Not so Good," "Bad"), streamlining data access for operational staff.
