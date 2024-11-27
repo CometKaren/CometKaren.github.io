@@ -67,7 +67,7 @@ Led data-driven insights that optimized inventory processes, improved business w
   * Identified critical fields required by the new ERP system but not mandatory in the legacy system; collaborated with teams to adapt business processes accordingly.
 
 *	Developed automated analysis tool that suggested transfers between overstock and understocked inventory locations based on historical movement, dollar value, and geographic locations. Lowering write off by 70%.
-  *	Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
+  * Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
   * Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
   * Conducted robust data audits and assisted with SQL testing and debugging during development to ensure accurate data retrieval from the correct tables, supporting reliable tool performance and user confidence.
 
@@ -87,9 +87,9 @@ Led data-driven insights that optimized inventory processes, improved business w
   * Conducted iterative testing and refinement of Python scripts, auditing data quality and adjusting key input fields to enhance model accuracy and improve alignment with business requirements.
 
 *	Developed a comprehensive Vendor Ranking Model to support procurement decisions and vendor negotiations by integrating data from multiple sources, including the ERP system, finance department, and parent company rebate information. Designed a complex data model with flexible weighting of components, translating qualitative insights into quantitative measures to enable effective vendor comparison.
-  *	Integrated data from various sources, consolidating financial, operational, and rebate information to create a centralized dataset for vendor evaluation.
+  * Integrated data from various sources, consolidating financial, operational, and rebate information to create a centralized dataset for vendor evaluation.
   * Utilized five distinct components in the ranking process, converting qualitative inputs into quantifiable metrics to ensure an objective comparison of vendors.
-  -*Designed a scalable and adaptable data model to rank vendors dynamically, providing branches with actionable insights for cost-effective procurement decisions and improved vendor negotiations.
+  * Designed a scalable and adaptable data model to rank vendors dynamically, providing branches with actionable insights for cost-effective procurement decisions and improved vendor negotiations.
 
 * Collaborated with cross-functional teams, including finance, operations, and IT, to evaluate and enhance business processes, aligning outcomes with strategic goals and fostering consensus among diverse stakeholders.
   * Partnered with team members across departments to uncover and address underlying business needs, ensuring solutions met the requirements of all stakeholders.
