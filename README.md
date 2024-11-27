@@ -51,22 +51,25 @@ Contributed to improved procurement strategies and stronger vendor relationships
 
 ### **Automated Inventory Replenishment System**  
 **Tools Used**: SQL, ERP System, Excel  
-#### **Project Overview**:  
+**Project Overview**:  
 Developed an automated inventory replenishment system designed to optimize stock levels by predicting demand and automating the replenishment process. The system used historical sales data and inventory trends to forecast demand and recommend stock orders for low-stock items.  
-#### **Key Objectives**:  
+**Key Objectives**:  
 - Forecast future inventory demand based on historical data.  
 - Automate the replenishment process to ensure timely restocking of products.  
 - Improve inventory management and reduce the risk of stockouts.  
-#### **Challenges & Solutions**:  
+
+**Challenges & Solutions**:  
 - **Challenge**: Inconsistent demand patterns due to seasonal fluctuations and promotions made accurate forecasting difficult.  
   **Solution**: Integrated advanced forecasting models in Python to account for seasonality, promotions, and regional differences in demand, resulting in more accurate predictions.  
 - **Challenge**: Manual replenishment processes were time-consuming and prone to human error.  
   **Solution**: Automated the replenishment process through integration with the ERP system, reducing manual intervention and improving accuracy.  
-#### **Outcome**:  
+
+**Outcome**:  
 - Developed a dynamic and accurate demand forecasting model.  
 - Automated replenishment workflows, reducing manual stock management tasks.  
 - Integrated the system with the ERP for seamless real-time data access.  
-#### **Impact**:  
+
+**Impact**:  
 - Increased order fulfillment rates by 25%.  
 - Reduced stockouts and improved inventory accuracy.  
 - Streamlined the inventory replenishment process, leading to a more efficient and cost-effective supply chain.  
@@ -81,12 +84,12 @@ This series of projects focused on the integration of multiple company databases
 - Prepare the organization for a potential ERP system transition by standardizing data for reporting.  
 
 **Challenges & Solutions**:  
-- **Challenge**: Standardizing different data structures (Ontario vs. other regions) and aligning them with the ERP system.
+- **Challenge**: Standardizing different data structures (Ontario vs. other regions) and aligning them with the ERP system.  
   **Solution**: Coordinated with multiple teams to build consensus on item number structures and descriptions.  
-- **Challenge**: Managing data integrity during the transition, including auditing and identifying missing fields or duplicates.
+- **Challenge**: Managing data integrity during the transition, including auditing and identifying missing fields or duplicates.  
   **Solution**: Carried out comprehensive audits and worked with teams to address these issues.  
-- **Challenge**: Preparing for the future ERP move by integrating the PIM system to standardize item data.
-  **Solution**: Used Trifacta to quickly edit and prepare data for integration, ensuring that all fields were in alignment before merging.
+- **Challenge**: Preparing for the future ERP move by integrating the PIM system to standardize item data.  
+  **Solution**: Used Trifacta to quickly edit and prepare data for integration, ensuring that all fields were in alignment before merging.  
 
 **Outcome**:  
 - Achieved seamless data integration for the Ontario database and the acquired company.  
