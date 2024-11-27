@@ -62,14 +62,14 @@
 Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
 
 * Led team project planning using the Waterfall method to assist with the company’s ERP system transition. Conducted comprehensive data audits to identify critical and missing information, developed reporting tools to track audit results, and implemented a structured plan that led to a 30% reduction in data processing time.
-  * Conducted gap analysis to identify missing and inconsistent data between legacy and new ERP systems; implemented corrective measures for seamless data migration.
-  * Developed documentation to standardize data entry protocols, including material descriptions and formatting key fields for compliance with the new ERP system.
-  * Identified critical fields required by the new ERP system but not mandatory in the legacy system; collaborated with teams to adapt business processes accordingly.
+  - Conducted gap analysis to identify missing and inconsistent data between legacy and new ERP systems; implemented corrective measures for seamless data migration.
+  - Developed documentation to standardize data entry protocols, including material descriptions and formatting key fields for compliance with the new ERP system.
+  - Identified critical fields required by the new ERP system but not mandatory in the legacy system; collaborated with teams to adapt business processes accordingly.
 
 *	Developed automated analysis tool that suggested transfers between overstock and understocked inventory locations based on historical movement, dollar value, and geographic locations. Lowering write off by 70%.
-  * Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
-  * Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
-  * Conducted robust data audits and assisted with SQL testing and debugging during development to ensure accurate data retrieval from the correct tables, supporting reliable tool performance and user confidence.
+  - Integrated the automated analysis tool directly into the ERP system, enabling seamless access to real-time inventory data and ensuring recommendations were always current and actionable.
+  - Designed flexible filtering options, allowing users to customize transfer suggestions by region, province, or material type, enhancing adaptability for various business scenarios.
+  - Conducted robust data audits and assisted with SQL testing and debugging during development to ensure accurate data retrieval from the correct tables, supporting reliable tool performance and user confidence.
 
 *	Performed predictive modeling that verified budget accuracy and appropriateness of diversity of materials.
   * Predicted material demand by category and region, such as forecasting small-diameter pipe sales in the first six months within Lower Mainland BC, to provide data-driven insights.
