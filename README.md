@@ -14,17 +14,19 @@
 ## Education
 
 * Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)  
-Relevant Coursework  
+*Relevant Coursework*  
   - Machine Learning for Business: Applied supervised and unsupervised learning algorithms to solve business problems, including customer classification and inventory forecasting  
   - Advanced Data Analytics: Developed predictive models and data-driven decision-making processes, incorporating statistical analysis and clustering to optimize marketing and business strategies.
   - Data Visualization & Communication: Strengthened data storytelling and executive communication skills using tools like Tableau.  
   - Project Management for Data Analytics: Managed analytics projects end-to-end, with training in scoping, data migration, data quality, and stakeholder communication.    
-Capstone Project  
+*Capstone Project*  
   - Customer Classification based on Sales History: Developed and implemented a customer classification model using ICONIX data in Python, segmenting customers based on purchasing behavior and sales history. Leveraged clustering techniques and data mining to identify key customer segments, enhancing targeted marketing strategies and aligning product offerings with customer needs.  
-
 
 * Certificate with High Honours: Accounting | Sheridan College (_2008_)  
 * BSc Dual Major: Computer Science & Applied Mathematics | University of Western Ontario (_1999_)  
+*Relevant Coursework*  
+- Advanced Data Analytics: Designed and implemented a genetic algorithm to solve the Travelling Salesman Problem, achieving optimizing route efficiency. using evolutionary computation and optimization techniques.  
+- Applied Mathematics and Modelling: Explored various mathematical modeling techniques, applying them to analyze and solve real-world problems across different domains.  
 
 <!--
 ## Projects
