@@ -1,15 +1,42 @@
-# Data Scientist
+# **Data Scientist**  
+*Transforming Data into Insights and Driving Innovation Through Advanced Analytics*  
 
-### **Key Technologies & Skills Summary**
-- ***Data Analysis & Visualization***: Power BI, Tableau, Microsoft Excel (Power Query, Power Pivot, Power View), Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports  
-- ***Programming Languages***: Python, R, DAX, SQL, HTML, C  
-- ***Database Management***: SQL, ETL Processes, Database Integration  
-- ***Data Mining & Model Building***: Predictive Modeling, Data Mining Techniques, Clustering, Classification  
-- ***Cloud & Development Tools***: Microsoft Azure, GitHub, Jira, Confluence  
-- ***Project Management Tools***: Trello, ClickUp, Microsoft Visio  
-- ***Operating Systems***: Unix, MS-DOS, Linux  
-- ***Machine Learning & AI***: Natural Language Processing, Supervised & Unsupervised Learning, AI Model Training  
-- ***Collaboration & Documentation***: SharePoint, Microsoft Office Suite, Documentation for End-Users & Technical Processes  
+### **Key Technologies & Skills Summary**  
+
+#### **Data Analysis & Visualization**  
+- **Tools**: Power BI, Tableau, Microsoft Excel (Power Query, Power Pivot, Power View), Jet Reports, Alteryx Designer Cloud (Trifacta), Crystal Reports  
+- **Capabilities**: Dashboard Creation, KPI Analysis, Trend Analysis, Real-Time Reporting  
+
+#### **Data Management & Governance**  
+- **Database Tools**: SQL, Database Integration  
+- **Governance**: Data Quality Assurance, Standardization, Metadata Management, Master Data Management (MDM)  
+
+#### **ETL & Data Pipeline Development**  
+- **Processes**: Extract, Transform, Load (ETL), Extract, Load, Transform (ELT)  
+- **Technologies**: SQL, Alteryx Designer Cloud (Trifacta), Microsoft Azure Data Factory  
+- **Capabilities**: Data Wrangling, Workflow Automation, Real-Time and Batch Processing  
+
+#### **Data Mining & Predictive Modeling**  
+- **Techniques**: Predictive Analytics, Clustering, Classification, Anomaly Detection  
+- **Machine Learning & AI**: Supervised/Unsupervised Learning, Natural Language Processing (NLP), AI Model Training  
+
+#### **Cloud & Development Tools**  
+- Microsoft Azure, GitHub, Jira, Confluence  
+
+#### **Programming & Development**  
+- **Languages**: Python, R, SQL, DAX, HTML, C  
+- **Capabilities**: Automation, API Integration  
+
+#### **Business Intelligence & Strategy**  
+- **Methods**: Business Process Optimization, Data-Driven Decision Making, Strategic Planning  
+- **BI Development**: Data Modeling, Interactive Report Creation, DAX Measures  
+
+#### **Project Management & Collaboration**  
+- **Tools**: Trello, ClickUp, Microsoft Visio  
+- **Experience**: Agile, Waterfall, Cross-Functional Team Collaboration, Documentation for End-Users and Technical Teams  
+
+#### **Operating Systems**  
+- Unix, MS-DOS, Linux  
 
 ## Education
 * Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)  
