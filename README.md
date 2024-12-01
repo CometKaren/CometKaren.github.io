@@ -55,6 +55,7 @@
 
 ## Projects
 ### **Vendor Ranking Model for Procurement Optimization**  
+[GIthub Project](https://github.com/CometKaren/Vendor_Ranking_Analysis)  
 **Tools Used**: SQL, Excel, ERP Systems, PowerBI  
 **Project Overview**:  
 Developed a comprehensive Vendor Ranking Model designed to support procurement decisions by mining data from various sources, including ERP systems, finance data, and rebate information provided by the parent company. The model allowed for the identification of the most cost-effective vendors, providing actionable insights for negotiations and procurement planning.  
