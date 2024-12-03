@@ -1,11 +1,10 @@
 # **Data Scientist**  
 *Transforming Data into Insights and Driving Innovation Through Advanced Analytics*  
-
+<a name="KeyTech"></a>  
 [Jump to Work Experience](#Work)  
 [Jump to Education](#Education)  
 [Jump to Projects](#Projects)
 
-<a name="KeyTech"></a>  
 ## **Key Technologies & Skills Summary**  
 
 #### **Data Analysis & Visualization**  
@@ -42,14 +41,13 @@
 
 #### **Operating Systems**  
 - Unix, MS-DOS, Linux  
-
+<a name="Projects"></a>  
 [Jump to Work Experience](#Work)  
 [Jump to Education](#Education)
 
-<a name="Projects"></a>  
 ## Projects  
 ### **Vendor Ranking Model for Procurement Optimization**  
-[Vendor Ranking Analysis Github Project](https://github.com/CometKaren/Vendor_Ranking_Analysis)  
+[Vendor Ranking Analysis Github Project](https://github.com/CometKaren/Vendor_Ranking_Analysis#Link)  
 **Tools Used**: SQL, Excel, ERP Systems, PowerBI  
 **Project Overview**:  
 Developed a comprehensive Vendor Ranking Model designed to support procurement decisions by mining data from various sources, including ERP systems, finance data, and rebate information provided by the parent company. The model allowed for the identification of the most cost-effective vendors, providing actionable insights for negotiations and procurement planning.  
@@ -148,11 +146,10 @@ This project focused on reducing the outstanding paperwork associated with inven
 - Achieved a 40% reduction in outstanding paperwork processes, streamlining inventory and order management.  
 - Enhanced operational staff's understanding of inventory issues, allowing for quicker resolution and improved decision-making.  
 - Supported better alignment with management’s expectations and improved overall compliance tracking.
-
+<a name="Work"></a>  
 [Jump to Education](#Education)  
 [Jump to Top](#KeyTech)
 
-<a name="Work"></a>  
 ## Work Experience  
 #### Data Analyst | Inventory & Business Process Specialist @ Iconix WaterWorks LP (_2006-2023_)
 Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
@@ -175,11 +172,10 @@ Ensured timely and accurate delivery of customized investment banking software b
 * **Configured customized investment banking software** for clients, ensuring alignment with business requirements and minimizing scheduling conflicts across projects.
 * **Collaborated** with clients and internal teams to ensure seamless integration and proper updates, maintaining the integrity and accuracy of the builds.
 * Supported **client communication** and provided ongoing technical assistance, ensuring that software solutions met client expectations and business objectives.
-
+<a name="Education"></a>  
 [Jump to Projects](#Projects)  
 [Jump to Top](#KeyTech)  
 
-<a name="Education"></a>  
 ## Education  
 * Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)  
   * *Relevant Coursework*  
