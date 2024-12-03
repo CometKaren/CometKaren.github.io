@@ -41,7 +41,8 @@
 
 #### **Operating Systems**  
 - Unix, MS-DOS, Linux  
-<a name="Projects"></a>  
+
+<a name="Projects"></a>
 [Jump to Work Experience](#Work)  
 [Jump to Education](#Education)
 
@@ -145,8 +146,9 @@ This project focused on reducing the outstanding paperwork associated with inven
 **Impact**:  
 - Achieved a 40% reduction in outstanding paperwork processes, streamlining inventory and order management.  
 - Enhanced operational staff's understanding of inventory issues, allowing for quicker resolution and improved decision-making.  
-- Supported better alignment with management’s expectations and improved overall compliance tracking.
-<a name="Work"></a>  
+- Supported better alignment with management’s expectations and improved overall compliance tracking.  
+
+<a name="Work"></a>
 [Jump to Education](#Education)  
 [Jump to Top](#KeyTech)
 
@@ -171,8 +173,9 @@ Led data-driven insights that optimized inventory processes, improved business w
 Ensured timely and accurate delivery of customized investment banking software by coordinating with development and testing teams. Maintained a strong focus on quality assurance and meeting client-specific requirements.  
 * **Configured customized investment banking software** for clients, ensuring alignment with business requirements and minimizing scheduling conflicts across projects.
 * **Collaborated** with clients and internal teams to ensure seamless integration and proper updates, maintaining the integrity and accuracy of the builds.
-* Supported **client communication** and provided ongoing technical assistance, ensuring that software solutions met client expectations and business objectives.
-<a name="Education"></a>  
+* Supported **client communication** and provided ongoing technical assistance, ensuring that software solutions met client expectations and business objectives.  
+
+<a name="Education"></a>
 [Jump to Projects](#Projects)  
 [Jump to Top](#KeyTech)  
 
