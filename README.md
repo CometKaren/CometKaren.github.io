@@ -1,6 +1,10 @@
 # **Data Scientist**  
 *Transforming Data into Insights and Driving Innovation Through Advanced Analytics*  
 
+[Jump to Work Experience](#Work-Experience)  
+[Jump to Education](#Education)  
+[Jump to Projects](#Projects)
+
 ## **Key Technologies & Skills Summary**  
 
 #### **Data Analysis & Visualization**  
@@ -37,6 +41,9 @@
 
 #### **Operating Systems**  
 - Unix, MS-DOS, Linux  
+
+[Jump to Work Experience](#Work-Experience)  
+[Jump to Education](#Education)
 
 ## Projects
 ### **Vendor Ranking Model for Procurement Optimization**  
@@ -140,6 +147,9 @@ This project focused on reducing the outstanding paperwork associated with inven
 - Enhanced operational staff's understanding of inventory issues, allowing for quicker resolution and improved decision-making.  
 - Supported better alignment with management’s expectations and improved overall compliance tracking.
 
+[Jump to Education](#Education)  
+[Jump to Top](#Key-Technologies-&-Skills-Summary)
+
 ## Work Experience
 #### Data Analyst | Inventory & Business Process Specialist @ Iconix WaterWorks LP (_2006-2023_)
 Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
@@ -162,6 +172,9 @@ Ensured timely and accurate delivery of customized investment banking software b
 * **Configured customized investment banking software** for clients, ensuring alignment with business requirements and minimizing scheduling conflicts across projects.
 * **Collaborated** with clients and internal teams to ensure seamless integration and proper updates, maintaining the integrity and accuracy of the builds.
 * Supported **client communication** and provided ongoing technical assistance, ensuring that software solutions met client expectations and business objectives.
+
+[Jump to Projects](#Projects)  
+[Jump to Top](#Key-Technologies-&-Skills-Summary)  
 
 ## Education
 * Ontario Graduate Certificate: Data Analytics for Business Decision Making | Lambton College (_2023_)  
