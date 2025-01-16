@@ -1,4 +1,4 @@
-# **Data Scientist**  
+# **Data Analyst**  
 *Transforming Data into Insights and Driving Innovation Through Advanced Analytics*  
 <a name="KeyTech"></a>  
 [Jump to Work Experience](#Work)  
