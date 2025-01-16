@@ -37,10 +37,7 @@
 
 #### **Project Management & Collaboration**  
 - **Tools**: Trello, ClickUp, Microsoft Visio  
-- **Experience**: Agile, Waterfall, Cross-Functional Team Collaboration, Documentation for End-Users and Technical Teams  
-
-#### **Operating Systems**  
-- Unix, MS-DOS, Linux  
+- **Experience**: Agile, Waterfall, Cross-Functional Team Collaboration, Documentation for End-Users and Technical Teams    
 
 <a name="Projects"></a>
 [Jump to Work Experience](#Work)  
