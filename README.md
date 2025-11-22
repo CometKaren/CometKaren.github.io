@@ -1,5 +1,6 @@
 # **Data Analyst**  
 *Transforming Data into Insights and Driving Innovation Through Advanced Analytics*  
+Solving Problems, Inspiring People, Creating Change  
 <a name="KeyTech"></a>  
 [Jump to Work Experience](#Work)  
 [Jump to Education](#Education)  
@@ -28,7 +29,7 @@
 - Microsoft Azure, GitHub, Jira, Confluence  
 
 #### **Programming & Development**  
-- **Languages**: Python, R, SQL, DAX, HTML, C  
+- **Languages**: Python, R, SQL, DAX, HTML  
 - **Capabilities**: Automation, API Integration  
 
 #### **Business Intelligence & Strategy**  
@@ -150,6 +151,16 @@ This project focused on reducing the outstanding paperwork associated with inven
 [Jump to Top](#KeyTech)
 
 ## Work Experience  
+#### Data Analyst | Inventory Analyst @ Wolseley Waterworks Canada (_2025-present_)  
+At Wolseley, I help teams work smarter by transforming complex operational information into clear, actionable insights that support better decisions and smoother day-to-day operations. My work spans everything from validating and organizing data to forecasting, optimizing processes, and monitoring performance—ensuring branches and sales associates have what they need to succeed.
+
+I create interactive dashboards, tools, and models that surface trends and opportunities, highlight what matters most, and make it easy for teams to act quickly and confidently. This includes optimizing inventory flow, helping remove or repurpose resources that aren’t adding value, and designing solutions that guide focus toward immediate priorities.
+
+**Key Achievements**:
+* Automate existing excel reports to improve ease of use and reduce update time.
+* Improving inventory efficiency through identification of aged inventory as well as moving inventory from less efficient to more efficient locations.
+* Classified open orders into aged categories and created reports to identify improvement over time which resulted in improved procurement and financial forecasting.
+  
 #### Data Analyst | Inventory & Business Process Specialist @ Iconix WaterWorks LP (_2006-2023_)
 Led data-driven insights that optimized inventory processes, improved business workflows, and supported strategic decision-making. Leveraged expertise in data mining, model building, and data visualization to develop actionable insights and ensure alignment with organizational goals. Delivered measurable results by creating KPI’s implementing automated solutions, and effectively communicating findings to non-technical stakeholders.  
 
